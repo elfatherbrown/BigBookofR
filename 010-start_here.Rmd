@@ -32,4 +32,4 @@ It is often useful to bounce of ideas and engage in conversation when you begin 
 
 -   [discoRd](https://discord.gg/FQp6ZNd) is a friendly and dedicated community for R enthusiasts, programmers, statisticians, data scientists, and students. Whether you are looking to connect with fellow useRs, have awesome data viz to share, or just needed help with your stats assignment, you are at the right place.
 
--    [R4DS Online Learning Community](https://rfordatascience.slack.com/) slack server for the R4DS Online Learning Community, a community of R learners at all skill levels working together to improve their skills.
+-   [R4DS Online Learning Community's](https://rfordatascience.slack.com/) slack server, a community of R learners at all skill levels working together to improve their skills.
