@@ -308,3 +308,4 @@ use-r-springer-series
 data-science-with-r-a-resource-compendium
 r-on-the-web
 cran-doc-collections
+communities-for-beginners

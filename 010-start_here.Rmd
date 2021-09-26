@@ -2,28 +2,34 @@
 
 If you're new to R and want to learn how to use it, this library might be a little daunting.
 
-> There's so much choice! 
+> There's so much choice!
 
-If you aren't sure where  to start, then try one  of these two options:
+If you aren't sure where to start, then try one of these two options:
 
 ### Book: R for Data Science
 
-This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
+This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away.
 
-The book is free to read at https://r4ds.had.co.nz/
+The book is free to read at <https://r4ds.had.co.nz/>
 
-There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
+There's an accompanying exercise solution book at <https://jrnold.github.io/r4ds-exercise-solutions/>
 
-For a different take on the solutions, check out *Yet another ‘R for Data Science’ study guide* which can also be found at https://brshallo.github.io/r4ds_solutions/
+For a different take on the solutions, check out *Yet another 'R for Data Science' study guide* which can also be found at <https://brshallo.github.io/r4ds_solutions/>
 
 If you'd like more of a roadmap which incorporates this book, have a look at my blogpost:
 
-https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/
-
-
+<https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/>
 
 ### Video Course: Getting started with R
 
 If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
 
-https://rfortherestofus.com/courses/getting-started/
+<https://rfortherestofus.com/courses/getting-started/>
+
+### Communities for beginners
+
+It is often useful to bounce of ideas and engage in conversation when you begin your journey of learning R. There are several communities you can join:
+
+-   [discoRd](https://discord.gg/FQp6ZNd) is a friendly and dedicated community for R enthusiasts, programmers, statisticians, data scientists, and students. Whether you are looking to connect with fellow useRs, have awesome data viz to share, or just needed help with your stats assignment, you are at the right place.
+
+-    [R4DS Online Learning Community](https://rfordatascience.slack.com/) slack server for the R4DS Online Learning Community, a community of R learners at all skill levels working together to improve their skills.
